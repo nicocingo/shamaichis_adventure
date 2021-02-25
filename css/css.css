@@ -1,0 +1,40 @@
+
+}
+div #Sección_1{
+  border-style: groove;
+  border-color: black;
+  border-width: thin;
+
+}
+div #Sección_2{
+  border-style: groove;
+  border-color: brown;
+  border-width: medium;
+  background-color: black;
+  font-family: "swis721 blk bt";
+  text-align: center;
+
+}
+div #Sección_3{
+  font-family: Candara;
+  font-size: 30px;
+  text-align: center;
+}
+div #Sección_4{
+background-color: black;
+font-size: 20px;
+text-align: center;
+color: white;
+}
+div #Sección_5{
+  background-color: black;
+  font-size: 20px;
+  text-align: center;
+  color: white;
+}
+#encabezado{
+  height: 50%;
+  border-style: solid;
+  border-color: black;
+  border-width: thick;
+}
